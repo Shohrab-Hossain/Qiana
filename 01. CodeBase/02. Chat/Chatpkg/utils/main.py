@@ -218,7 +218,7 @@ def get_prediction(customer_message):
 #                Defining Database              |
 # -----------------------------------------------
 DataBase = {
-    "myName" : 'Zayn',
+    "myName" : 'Qiana',
     "restaurent_info" : {},
     "food_offer" : 'Show food offer. [update DataBase]',
     "special_dishes" : 'Show special dishes. [update DataBase]',
