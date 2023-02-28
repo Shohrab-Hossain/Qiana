@@ -26,7 +26,18 @@ Let's have a chat with [Qiana](https://qiana.shohrab.com)
 
 ---
 
-[TOC]
+[1. Architecture](#1-architecture)
+  - [1.1. Natural Language Processing Unit](#11-natural-language-processing-unit)
+    - [1.1.1. Word Tokenization](#111-word-tokenization)
+    - [1.1.2. Parts-Of-Speech Tagging](#112-parts-of-speech-tagging)
+    - [1.1.3. Lemmatization](#113-lemmatization)
+    - [1.1.4. Word Vectorization](#114-word-vectorization)
+  - [1.2. Machine Learning Unit](#12-machine-learning-unit)
+    - [1.2.1. Learning Curve Evaluation](#121-learning-curve-evaluation)
+    - [1.2.2. Confusion Matrix Evaluation](#122-confusion-matrix-evaluation)
+    - [1.2.3. Classification Report Evaluation](#123-classification-report-evaluation)
+  - [1.3. Response Generation Unit](#13-response-generation-unit)
+
 
 
 <br><br><br><br>
