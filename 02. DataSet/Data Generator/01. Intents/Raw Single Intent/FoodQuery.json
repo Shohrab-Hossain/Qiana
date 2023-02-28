@@ -1,0 +1,37 @@
+{
+	"intent": "FoodQuery",
+	
+	"texts": [
+        "Do you have FOODITEM?",
+        "Do you serve FOODITEM?",
+        "Do you sell FOODITEM?",
+        "Do we currently have FOODITEM?",
+        "Have you got FOODITEM?",
+        "FOODITEM is it available?",
+        "FOODITEM is presently offered?",
+        "Are FOODITEM available now?",
+        "Are there any FOODITEM options right now?",
+
+        "Do you have FOODITEM",
+        "Do you serve FOODITEM",
+        "Do you sell FOODITEM",
+        "Do we currently have FOODITEM",
+        "Have you got FOODITEM",
+        "FOODITEM is it available",
+        "FOODITEM is presently offered",
+        "Are FOODITEM available now",
+        "Are there any FOODITEM options right now"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "TaskBased"
+}

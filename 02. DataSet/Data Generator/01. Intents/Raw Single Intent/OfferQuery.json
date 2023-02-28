@@ -1,0 +1,87 @@
+{
+	"intent": "OfferQuery",
+	
+	"texts": [
+        "Do you have any deals today?",
+        "Do you have any offers today?",
+        "Do you have any discounts today?",
+        "Do you have any promotions today?",
+
+        "Do you have any special deals today?",
+        "Do you have any special offers today?",
+        "Do you have any special discounts today?",
+        "Do you have any special offers today?",
+
+        "Do you have any ongoing deals?",
+        "Do you have any ongoing offers?",
+        "Do you have any ongoing discounts?",
+        "Do you have any ongoing promotions?",
+
+        "Do you have any ongoing deals available?",
+        "Do you have any ongoing offers available?",
+        "Do you have any ongoing discounts available?",
+        "Do you have any ongoing promotions available?",
+
+        "Are there any ongoing deals today?",
+        "Are there any ongoing offers today?",
+        "Are there any ongoing discounts today?",
+        "Are there any ongoing promotions today?",
+
+        "Are there any ongoing deals available?",
+        "Are there any ongoing offers available?",
+        "Are there any ongoing discounts available?",
+        "Are there any ongoing promotions available?",
+
+        "Are there any food deals today?",
+        "Are there any food offers today?",
+        "Are there any food discounts today?",
+        "Are there any food promotions today?",
+
+        "Are there any food deals available?",
+        "Are there any food offers available?",
+        "Are there any food discounts available?",
+        "Are there any food promotions available?",
+
+        "Are there any deals on food today?",
+        "Are there any offers on food today?",
+        "Are there any discounts on food today?",
+        "Are there any promotions on food today?",
+        
+        "Are there any deals on food available?",
+        "Are there any offers on food available?",
+        "Are there any discounts on food available?",
+        "Are there any promotions on food available?",
+
+        "Is there a food deal?",
+        "Is there a food offer?",
+        "Is there a food discount?",
+        "Is there a food promotion?",
+
+        "Is there a food deal available?",
+        "Is there a food offer available?",
+        "Is there a food discount available?",
+        "Is there a food promotion available?",
+        
+        "Is there any kind of food deal?",
+        "Is there any kind of food offer?",
+        "Is there any kind of food discount?",
+        "Is there any kind of food promotion?",
+
+        "Is there any kind of food deal?",
+        "Is there any kind of food offer?",
+        "Is there any kind of food discount available?",
+        "Is there any kind of food promotion?"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

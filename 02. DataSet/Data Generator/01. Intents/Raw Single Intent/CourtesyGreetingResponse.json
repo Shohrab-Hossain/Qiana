@@ -1,0 +1,38 @@
+{
+	"intent": "CourtesyGreetingResponse",
+	
+	"texts": [
+        "I am great.",
+        "I am great, thanks!",
+        "I am great, thank you.",
+        "I am good.",
+        "I am good, thanks!",
+        "I am good, thank you.",
+        "Good good",
+        "Good, thank you.",
+        "Good, thanks!",
+        "Great, thank you.",
+        "Great, thanks!",
+        "Not bad",
+        "Not bad, thanks!",
+        "Not bad, thank you.",
+        "Not too bad",
+        "Not too bad, thanks!",
+        "Not too bad, thank you."
+	],
+
+	"reply": {
+		"responses": [
+            "Great!",
+            "Good!",
+            "Cool!",
+            "OK!"
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

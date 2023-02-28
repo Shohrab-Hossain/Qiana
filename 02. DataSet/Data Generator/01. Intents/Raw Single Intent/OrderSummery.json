@@ -1,0 +1,58 @@
+{
+	"intent": "OrderSummery",
+	
+	"texts": [
+        "What did I order?",
+        "What exactly did I order?",
+
+        "What foods did I order?",
+        "What dishes did I order?",
+
+        "Can you show me the order list?",
+        "Can I see the order list?",
+        "Can you show me the cart?",
+        "Can I see the cart?",
+
+        "Is it possible for me to see the order list?",
+        "Is it possible to view the order list?",
+        "Is it possible for me to see the cart?",
+        "Is it possible to view the cart?",
+
+        "Could you please show me the order list?",
+        "Could you please send me the order list?",
+        "Could you please provide me with the order list?",
+        "Could you please show me the cart?",
+        "Could you please send me the cart?",
+        "Could you please provide me with the cart?",
+
+        "Would you mind sending me the order list?",
+        "Would you mind showing me the order list?",
+        "Would you mind providing me the order list?",
+        "Would you mind sending me the cart?",
+        "Would you mind showing me the cart?",
+        "Would you mind providing me the cart?",
+
+        "What are you serving me?",
+        "What are you feeding me?",
+        "What exactly are you serving me?",
+        "What exactly are you feeding me?",
+
+        "Order list",
+        "Show me the order list",
+        "Order list please",
+        "Show me the cart",
+        "Cart please"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

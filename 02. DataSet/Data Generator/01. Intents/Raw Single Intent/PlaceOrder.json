@@ -1,0 +1,34 @@
+{
+	"intent": "PlaceOrder",
+	
+	"texts": [
+        "I am ready to order",
+        "I am ready to place my order.",
+        "I am prepared to place my order.",
+
+        "I would like to order my food",
+        "I would like to place my food order.",
+        "I would like to place an order for my food.",
+
+        "I would like to confirm the order.",
+        "I would like to confirm the purchase.",
+
+        "Confirm my order",
+        "Please confirm my order.",
+        "Order confirmation",
+        "Place my order.",
+        "Please Place my order."
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "TaskBased"
+}

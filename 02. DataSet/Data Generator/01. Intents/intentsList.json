@@ -1,0 +1,27 @@
+{
+    "intents": [
+        "Clever",
+        "CourtesyGreetingResponse",
+        "CourtesyGreetings",
+        "CustomerName",
+        "FoodQuery",
+        "GoodBye",
+        "Gossip",
+        "Greetings",
+        "HumanNameQuery",
+        "Jokes",
+        "MenuQuery",
+        "MostSellingDishes",
+        "NameQuery",
+        "OfferQuery",
+        "OrderSummery",
+        "PlaceOrder",
+        "PriceQuery",
+        "RecommendDishes",
+        "SelfAware",
+        "SpecialDishes",
+        
+        "TakeOrder",
+        "Thanks"
+    ]
+}

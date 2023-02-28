@@ -1,0 +1,49 @@
+{
+	"intent": "MenuQuery",
+	
+	"texts": [
+        "May I see your menu?",
+        "Can I see your menu?",
+        
+        "May I get a menu card?",
+        "Can I get a menu card?",
+        
+        "May I have a menu?",
+        "Can I have a menu?",
+
+        "Please show me your menu.",
+        "Can you please show me your menu?",
+        "Could you please show me your menu?",
+        "Would you mind showing me your menu?",
+        
+        "Please provide me with a menu.",
+        "Can you please provide me with a menu?",
+        "Could you please provide me with a menu?",
+        "Would you mind providing me with a menu?",
+        
+        "Please send me the menu.",
+        "Can you please send me the menu?",
+        "Could you please send me the menu?",
+        "Would you mind sending me the menu?",
+        
+        "Give me a menu?",
+        "Can you give me a menu?",
+        "Could you give me a menu?",
+        "Would you give me a menu?",
+
+        "Menu please.",
+        "Menu"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "TaskBased"
+}

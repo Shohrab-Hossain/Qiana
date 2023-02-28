@@ -1,0 +1,29 @@
+{
+	"intent": "PriceQuery",
+	
+	"texts": [
+        "May I know the price of the FOODITEM?",
+		"Can you tell me how much the FOODITEM costs?",
+		"Could you please tell me how much the FOODITEM costs?",
+
+		"How much does FOODITEM cost?",
+		"What is the price of FOODITEM?",
+		"What is the cost of FOODITEM?",
+
+		"I want to know the price of FOODITEM",
+		"I would like to know how much FOODITEM costs.",
+		"I would like to know the cost of FOODITEM."
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "TaskBased"
+}

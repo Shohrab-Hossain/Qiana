@@ -1,0 +1,53 @@
+{
+	"intent": "MostSellingDishes",
+	
+	"texts": [
+        "What are the best selling foods?",
+        "What are your best selling foods?",
+        "What are the best selling foods you sell?",
+
+        "What are the most popular foods?",
+        "What are your most popular foods?",
+        "What are the most popular foods you sell?",
+
+        "What are the most famous foods?",
+        "What are your most famousfoods?",
+        "What are the most famous foods you sell?",
+
+        "Which foods are the most popular?",
+        "Which of your foods are the most popular?",
+
+        "Which foods are the most famous?",
+        "Which of your foods are the most famous?",
+
+        "Which foods is the most well liked?",
+        "Which of your foods is the most well liked?",
+
+        "What foods are people eating the most?",
+        "What of your foods are people eating the most?",
+
+        "Which foods run out quickly?",
+        "Which foods are the most quickly depleted?",
+
+        "Which foods do customers eat more?",
+
+        "Which foods are famous among customers?",
+        "Which foods are popular among customers?",
+        "Which foods are most popular among customers?",
+        
+        "Which foods are the most famous with customers?",
+        "Which foods are the most popular with customers?"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

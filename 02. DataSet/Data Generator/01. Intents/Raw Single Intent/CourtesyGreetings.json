@@ -1,0 +1,45 @@
+{
+	"intent": "CourtesyGreetings",
+	
+	"texts": [
+        "How are you?",
+        "Hi how are you?",
+        "Hello how are you?",
+        "Hola how are you?",
+        "How are you doing?",
+        "Hi how are you doing?",
+        "Hello how are you doing?",
+        "Hola how are you doing?",
+        "Hope you are doing well?",
+        "Hi hope you are doing well?",
+        "Hello hope you are doing well?",
+        "Hola hope you are doing well?"
+	],
+
+	"reply": {
+		"responses": [
+            "I am great.",
+            "I am great, thanks!",
+            "I am great, thank you.",
+            "I am good.",
+            "I am good, thanks!",
+            "I am good, thank you.",
+            "Good, thank you.",
+            "Good, thanks!",
+            "Great, thank you.",
+            "Great, thanks!",
+            "Not bad, thanks!",
+            "Not bad, thank you.",
+            "Not too bad, thanks!",
+            "Not too bad, thank you."
+        ],
+
+		"extensions": [
+            "How are you?",
+            "How are you doing?",
+            "What about you?"
+        ]
+	},
+
+    "response_type" : "RuleBased"
+}

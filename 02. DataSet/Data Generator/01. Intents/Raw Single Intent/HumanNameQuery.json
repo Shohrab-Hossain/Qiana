@@ -1,0 +1,46 @@
+{
+	"intent": "HumanNameQuery",
+	
+	"texts": [
+        "What is my name?",
+        "What do you call me?",
+        "Who do you think I am?",
+        "What do you think I am?",
+        "Who are you talking to?",
+        "What name do you call me by?",
+        "Tell me my name",
+        "Do you know my name?",
+        "Do you know what is my name?",
+        "Do you know who are you talking to?",
+
+        "What is my name",
+        "What do you call me",
+        "Who do you think I am",
+        "What do you think I am",
+        "Who are you talking to",
+        "What name do you call me by",
+        "Do you know my name",
+        "Do you know what is my name",
+        "Do you know who are you talking to"
+	],
+
+	"reply": {
+		"responses": [
+            "You are <NAME>.",
+            "Your name is <NAME>.",
+            "They call you <NAME>.",
+            "Your name is <NAME>."
+        ],
+
+		"extensions": [
+            "Sorry, I don't know your name. What is your name?",
+            "Sorry, I don't know your name. What could I call you?",
+            "Sorry, I don't know your name. What can I call you?",
+            "Pardon, I don't know your name. What is your name?",
+            "Pardon, I don't know your name. What could I call you?",
+            "Pardon, I don't know your name. What can I call you?"
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

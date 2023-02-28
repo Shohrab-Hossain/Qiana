@@ -1,0 +1,50 @@
+{
+	"intent": "RecommendDishes",
+	
+	"texts": [
+        "Please recommend some foods to me.",
+
+        "Could you please recommend some foods?",
+        "Could you please recommend some foods to me?",
+        "Could you please recommend some foods for me?",
+        
+        "Could you please suggest some foods?",
+        "Could you please suggest some foods to me?",
+        "Could you please suggest some foods for me?",
+
+        "Could you please give me some food recommendations?",
+        "Could you please make some food recommendations for me?",
+
+        "Would you mind recommending some food to me?",
+        "Would you mind giving me some food recommendations?",
+        "Would you mind making some food recommendations for me?",
+
+        "Please recommend something.",
+        "Please recommend something to me.",
+        "Please recommend something for me.",
+
+        "Please suggest something.",
+        "Please suggest something to me.",
+        "Please suggest something for me.",
+
+        "Suggest something.",
+        "Recommend something.",
+
+        "what can I eat?",
+        "What shall I eat?",
+        "What should I eat?",
+        "What am I going to eat?"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

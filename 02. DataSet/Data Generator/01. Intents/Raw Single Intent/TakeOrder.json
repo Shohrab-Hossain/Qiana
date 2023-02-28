@@ -1,0 +1,40 @@
+{
+	"intent": "TakeOrder",
+	
+	"texts": [
+        "I would like to order FOODITEM",
+        "I would like to place an order for FOODITEM.",
+        "I would like some FOODITEM.",
+        "I would like to eat FOODITEM.",
+        "I would like to have FOODITEM.",
+        "I would like to eat some FOODITEM.",
+        "Take order for FOODITEM",
+        "Please take order for FOODITEM",
+
+        "I would like to order QUANTITY FOODITEM",
+        "I would like to place an order for QUANTITY FOODITEM.",
+        "I would like QUANTITY FOODITEM.",
+        "I would like to eat QUANTITY FOODITEM.",
+        "I would like to have QUANTITY FOODITEM.",
+        "I would like to eat QUANTITY FOODITEM.",
+        "Take order for QUANTITY FOODITEM",
+        "Please take order for QUANTITY FOODITEM"
+	],
+
+	"reply": {
+		"responses": [
+        ],
+
+		"extensions": [
+            "Please include the food name and the quantity of your order.",
+            "Please provide the food name and the number of orders.",
+            "Please include the food name and the number of orders you are placing.",
+            "Ensure to provide the quantity of the order along with the food name.",
+            "Don't forget to specify the quantity of each item ordered along with the dish's name.",
+            "Don't forget to include the food name and the order's quantity.",
+            "Don't forget to specify the amount of the order and the food name."
+		]
+	},
+
+    "response_type" : "TaskBased"
+}

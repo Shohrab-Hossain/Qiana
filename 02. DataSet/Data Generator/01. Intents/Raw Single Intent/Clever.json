@@ -1,0 +1,38 @@
+{
+	"intent": "Clever",
+	
+	"texts": [
+        "You are very clever",
+        "You are a very clever girl",
+        "You are very intelligent",
+        "You are a very intelligent girl",
+        "You are a genious",
+        "Clever girl",
+        "Genious",
+        "You are incredibly smart.",
+        "You have a high level of intelligence.",
+        "You are really witty."
+	],
+
+	"reply": {
+		"responses": [
+            "I was trained well",
+            "Thank you,I was trained well",
+            "Thanks,I was trained well",
+            "I had good training.",
+            "Thank you,I had good training.",
+            "Thanks,I had good training.",
+            "I received excellent training.",
+            "Thank you,I received excellent training.",
+            "Thanks,I received excellent training.",
+            "Thank you, I was trained that way",
+            "Thanks, I was trained that way"
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

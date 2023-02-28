@@ -1,0 +1,54 @@
+{
+	"intent": "GoodBye",
+	
+	"texts": [
+        "Bye",
+        "Bye bye!",
+        "Adios",
+        "Adios, Hippos!",
+        "Hippos!",
+        "Adios, Amigos!",
+        "Amigos!",
+        "See you later",
+        "See you soon",
+        "Talk to you later",
+        "Goodbye",
+        "Catch you later",
+        "I am out of here",
+        "Have a nice day",
+        "Peace out!",
+        "Goodnight!",
+        "Thanks, bye",
+        "Thanks for the help, goodbye",
+        "Thanks for the help, good bye",
+        "Thank you, bye",
+        "Thank you, goodbye",
+        "Thank you, good bye",
+        "Thanks bye",
+        "Thanks goodbye",
+        "Thanks good bye"
+	],
+
+	"reply": {
+		"responses": [
+            "See you later.",
+            "See you soon.",
+            "Have a nice day.",
+            "No problem, goodbye",
+            "No problem, see you later.",
+            "No problem, see you soon.",
+            "No problem, have a nice day.",
+            "Not a problem, see you later.",
+            "Not a problem! Have a nice day",
+            "Bye! Come back again soon.",
+            "Bye! See you soon.",
+            "Bye! See you later."
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

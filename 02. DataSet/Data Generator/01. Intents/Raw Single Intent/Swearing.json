@@ -1,0 +1,40 @@
+{
+	"intent": "Swearing",
+	
+	"texts": [
+        "Twat",
+        "Shit",
+        "Bloody hell",
+        "Piss off",
+        "Bastard",
+        "Bugger off",
+        "Fuck off",
+        "Fuck You",
+        "Fuck",
+        "Bollocks",
+        "Dick head",
+        "Asshole",
+        "Bitch",
+        "Rubbish"
+	],
+
+	"reply": {
+		"responses": [
+            "Please do not swear.",
+            "Don't swear, please.",
+            "What a snob!",
+            "How rude...",
+            "You're being a bit rude.",
+            "That is not very nice.",
+            "Not very polite of you.",
+            "Please refrain from using profanity.",
+            "You're acting impolitely."
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

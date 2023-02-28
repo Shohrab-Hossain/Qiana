@@ -1,0 +1,41 @@
+{
+	"intent": "NameQuery",
+	
+	"texts": [
+        "What is your name?",
+        "What could I call you?",
+        "What can I call you?",
+        "What do your friends call you?",
+        "Who are you?",
+        "Tell me your name?",
+        "Tell me your name, please?",
+        "Your name?",
+        "Your name, please?",
+
+        "What is your name",
+        "What could I call you",
+        "What can I call you",
+        "What do your friends call you",
+        "Who are you",
+        "Tell me your name",
+        "Tell me your name, please",
+        "Your name",
+        "Your name, please"
+	],
+
+	"reply": {
+		"responses": [
+            "You can call me <NAME>",
+            "You may call me <NAME>",
+            "Call me <NAME>",
+            "My name is <NAME>",
+            "I am <NAME>"
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

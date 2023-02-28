@@ -1,0 +1,37 @@
+{
+	"intent": "SpecialDishes",
+	
+	"texts": [
+        "What are your specialties?",
+
+        "What are your special dishes?",
+        "What are some of your special dishes?",
+
+        "What are your special foods?",
+        "What are some of your special foods?",
+        
+        "What are your signature dishes?",
+        "What are some of your signature dishes?",
+
+        "What are your signature foods?",
+        "What are some of your signature foods?",
+
+        "Special foods",
+        "Special dishes",
+
+        "Signature foods",
+        "Signature dishes"
+	],
+
+	"reply": {
+		"responses": [
+            
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

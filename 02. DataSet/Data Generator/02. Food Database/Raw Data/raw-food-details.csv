@@ -1,0 +1,248 @@
+Item Name,Price,Category,Menu
+Mint Sauce,0.5,Sauce,Side
+Lime Pickle,0.5,Pickle,Side
+Mango Chutney,0.5,Pickle,Side
+Red Sauce,0.5,Sauce,Side
+Onion Chutney,0.5,Pickle,Side
+Plain Papadum,0.8,,Side
+Spicy Papadum,0.8,,Side
+Chapati,1.95,,Bread
+Puree,1.95,,Bread
+Tandoori Roti,2.6,,Bread
+Plain Naan,2.6,,Bread
+Raitha,2.95,,Side
+Keema Naan,2.95,,Bread
+Peshwari Naan,2.95,,Bread
+Pilau Rice,2.95,,Rice
+Green Salad,2.95,,Side
+Bottle Coke,2.95,,Drinks
+Plain Rice,2.95,,Rice
+Garlic Naan,2.95,,Bread
+Onion Naan,2.95,,Bread
+Paratha,2.95,,Bread
+Bottle Diet Coke,2.95,,Drinks
+Kulcha Naan,2.95,,Bread
+Lemonade (1.5ltr),2.95,,Drinks
+Diet Coke (1.5ltr),2.95,,Drinks
+Coke (1.5ltr),2.95,,Drinks
+Dhansak Sauce,3.95,Sauce,Side
+Onion Bhajee,3.95,,Starter
+Lemon Rice,3.95,,Rice
+French Fries,3.95,,Fries
+Garlic Rice,3.95,,Rice
+Onion Rice,3.95,,Rice
+Perrier Water (750ml),3.95,,Drinks
+Special Fried Rice,3.95,,Rice
+Meat Samosa,3.95,,Starter
+Mushroom Rice,3.95,,Rice
+Korma Sauce,3.95,Sauce,Side
+Vegetable Rice,3.95,,Rice
+Egg Rice,3.95,,Rice
+Curry Sauce,3.95,Sauce,Side
+Egg Paratha,3.95,,Bread
+Keema Rice,3.95,,Rice
+Stuffed Paratha,3.95,,Bread
+COBRA (330ML),3.95,,Drinks
+Saag Rice,3.95,,Rice
+Masala Sauce,3.95,Sauce,Side
+Madras Sauce,3.95,Sauce,Side
+Vindaloo Sauce,3.95,Sauce,Side
+Bengal Salad,3.95,,Side
+Still Water (750ml),3.95,,Drinks
+Prier Water (750ml),3.95,,Drinks
+Onion Bhaji,3.95,,Starter
+Chicken Tikka,3.95,,Starter
+Aloo Chaat,4.95,,Starter
+Tandoori Chicken (1/4),4.95,,Chicken
+Chicken Chaat,4.95,,Starter
+Prawn Puree,4.95,,Starter
+Lamb Tikka,4.95,,Starter
+Vegetable Roll,4.95,,Starter
+Sheek Kebab,4.95,,Starter
+Vegetable Samosa,4.95,,Starter
+King Prawn Puree,5.95,,Starter
+Bhindi Bhajee,5.95,,Side
+Tarka Dall,5.95,,Side
+Saag Paneer,5.95,,Side
+Baingan Hari Mirch,5.95,,Side
+Chicken Pakora,5.95,,Starter
+COBRA (LARGE),5.95,,Drinks
+Royal Paneer,5.95,,Special
+Muttar Paneer,5.95,,Special
+Chana Masala,5.95,,Starter
+Bombay Aloo,5.95,,Starter
+Saag Aloo,5.95,,Starter
+Aloo Methi,5.95,,Starter
+Saag Bhajee,5.95,,Special
+Cauliflower Bhajee,5.95,,Side
+Saag Dall,5.95,,Special
+Aloo Gobi,5.95,,Special
+Mixed Vegetable Curry,5.95,,Special
+Mushroom Bhajee,5.95,,Starter
+Mixed Starter,5.95,,Starter
+Tandoori Fish,5.95,,Fish
+Brinjal Bhajee,5.95,,Special
+Vegetable Mysore,5.95,,Special
+King Prawn Butterfly,5.95,,Starter
+Dall Samba,5.95,,Special
+COBRA (660ML),5.95,,Drinks
+Chicken Chaat Main,7.9,,Chicken
+Madras - Chicken,7.95,,Chicken
+Madras - Lamb,7.95,,Lamb
+Curry - Chicken,7.95,,Chicken
+Vindaloo - Chicken,7.95,,Chicken
+Madras - Chicken Tikka,7.95,,Chicken
+Curry - Lamb,7.95,,Lamb
+Curry - Chicken Tikka,7.95,,Chicken
+Vindaloo - Chicken Tikka,7.95,,Chicken
+Vindaloo - Lamb,7.95,,Lamb
+Madras,7.95,,Special
+Curry,7.95,,Special
+Vindaloo,7.95,,Special
+Korma - Chicken,8.95,,Chicken
+Chicken Tikka Masala,8.95,,Chicken
+Pathia - Chicken Tikka,8.95,,Chicken
+Chicken Tikka Jalfrezi,8.95,,Chicken
+Methi - Lamb,8.95,,Lamb
+Tandoori Chicken (Main),8.95,,Chicken
+Bhuna - Chicken,8.95,,Chicken
+Korma - Chicken Tikka,8.95,,Chicken
+Chicken Tikka (Main),8.95,,Chicken
+Paneer Tikka Masala,8.95,,Special
+Dupiaza - Chicken,8.95,,Chicken
+Bhuna - Chicken Tikka,8.95,,Chicken
+Pathia - Lamb,8.95,,Lamb
+Chicken Karahi,8.95,,Chicken
+Bhuna - Lamb,8.95,,Lamb
+Dhansak - Chicken Tikka,8.95,,Chicken
+Dhansak - Chicken,8.95,,Chicken
+Rogon - Lamb,8.95,,Lamb
+Chicken Tikka Pasanda,8.95,,Chicken
+Pathia - Chicken,8.95,,Chicken
+Lamb Tikka Masala,8.95,,Lamb
+Lamb Tikka Jalfrezi,8.95,,Lamb
+Lamb Karahi,8.95,,Lamb
+Madras - Prawn,8.95,,Prawn
+Lamb Tikka (Main),8.95,,Lamb
+Lamb Tikka Pasanda,8.95,,Lamb
+Lamb Tikka Garlic,8.95,,Lamb
+Chicken Tikka Garlic,8.95,,Chicken
+Chicken Tikka Chilli Masala,8.95,,Chicken
+Dupiaza - Chicken Tikka,8.95,,Chicken
+Mushroom - Chicken,8.95,,Chicken
+Dhansak - Lamb,8.95,,Lamb
+Sheek Kebab (Main),8.95,,Lamb
+Saag - Chicken,8.95,,Chicken
+Tandoori Chicken Masala,8.95,,Chicken
+Saag - Chicken Tikka,8.95,,Chicken
+Dupiaza - Lamb,8.95,,Lamb
+Curry - Prawn,8.95,,Lamb
+Saag - Lamb,8.95,,Lamb
+Korma - Lamb,8.95,,Lamb
+Mushroom - Lamb,8.95,,Lamb
+Rogon - Chicken Tikka,8.95,,Chicken
+Lamb Tikka Chilli Masala,8.95,,Lamb
+Vindaloo - Prawn,8.95,,Prawn
+Methi - Chicken Tikka,8.95,,Chicken
+Vegetable Karahi,8.95,,Special
+Rogon - Chicken,8.95,,Chicken
+Mushroom - Chicken Tikka,8.95,,Chicken
+Methi - Chicken,8.95,,Chicken
+Lamb Tikka Jeera,8.95,,Lamb
+Chicken Tikka Jeera,8.95,,Chicken
+Bhuna,8.95,,Special
+Saag,8.95,,Special
+Dhansak,8.95,,Special
+Pathia,8.95,,Special
+Korma,8.95,,Special
+Dupiaza,8.95,,Special
+Methi,8.95,,Special
+Rogon,8.95,,Special
+Mushroom,8.95,,Special
+Tandoori Chicken,8.95,,Chicken
+Chicken Shashlick,9.95,,Starter
+Chicken Roshni,9.95,,Starter
+Chicken Balti,9.95,,Chicken
+Lamb Balti,9.95,,Lamb
+Butter Chicken,9.95,,Chicken
+Lamb Hari Mirch,9.95,,Lamb
+Chicken Chilli Garlic,9.95,,Chicken
+Lamb Biryani,9.95,,Rice
+Vegetable Biryani,9.95,,Rice
+Chicken Rezala,9.95,,Chicken
+Lamb Rezala,9.95,,Lamb
+Chicken Tikka Karahi,9.95,,Chicken
+Chicken Hari Mirch,9.95,,Chicken
+Chicken Biryani,9.95,,Rice
+Lamb Shashlick,9.95,,Lamb
+Bhuna - Prawn,9.95,,Prawn
+Chicken Haryali,9.95,,Chicken
+Lamb Chilli Garlic,9.95,,Lamb
+Paneer Shaslick,9.95,,Special
+Chicken Mysore,9.95,,Side
+Paneer Tikka Karahi,9.95,,Special
+Lamb Achar,9.95,,Lamb
+Paneer Tikka Sizzler,9.95,,Special
+Chicken Tikka Sizzler,9.95,,Chicken
+Lal Mirch Chicken,9.95,,Chicken
+Lamb Tikka Karahi,9.95,,Lamb
+Prawn Karahi,9.95,,Prawn
+Lal Mirch Lamb,9.95,,Lamb
+Korma - Prawn,9.95,,Prawn
+Lamb Haryali,9.95,,Lamb
+Lamb Sylhet,9.95,,Lamb
+Vegetable Balti,9.95,,Special
+Dhansak - Prawn,9.95,,Prawn
+Lamb Mysore,9.95,,Side
+Chicken Sylhet,9.95,,Starter
+Lamb Tikka Sizzler,9.95,,Lamb
+Pathia - Prawn,9.95,,Prawn
+Chicken Achar,9.95,,Chicken
+Dupiaza - Prawn,9.95,,Prawn
+Lamb Roshni,9.95,,Lamb
+Saag - Prawn,9.95,,Prawn
+Methi - Prawn,9.95,,Prawn
+Rogon - Prawn,9.95,,Prawn
+Mushroom - Prawn,9.95,,Prawn
+Lamb Tikka Biryani,10.95,,Rice
+Chicken Tikka Balti,10.95,,Chicken
+Lamb Tikka Balti,10.95,,Lamb
+Prawn Biryani,10.95,,Rice
+Paneer Tikka Balti,10.95,,Special
+Chicken Tikka Biryani,10.95,,Rice
+Persian Lamb Biryani,10.95,,Rice
+Prawn Balti,10.95,,Prawn
+Persian Chicken Biryani,10.95,,Rice
+Lamb Persian,10.95,,Lamb
+Tandoori Mixed Grill,11.95,,Special
+Curry - King Prawn,11.95,,Prawn
+Madras - King Prawn,11.95,,Prawn
+Tandoori Fish (Main),11.95,,Fish
+Vindaloo - King Prawn,11.95,,Prawn
+Tandoori King Prawn Garlic,12.95,,Prawn
+Chicken Shashlick Curry,12.95,,Chicken
+King Prawn Hari Mirch,12.95,,Prawn
+Hazary Lamb Chilli Garlic,12.95,,Lamb
+Lamb Shashlick Curry,12.95,,Side
+King Prawn Shaslick,12.95,,Prawn
+Dhansak - King Prawn,12.95,,Prawn
+Bengal King Prawn,12.95,,Prawn
+Korma - King Prawn,12.95,,Prawn
+Bhuna - King Prawn,12.95,,Prawn
+Hazary Lamb,12.95,,Lamb
+Bengal Fish Biryani,12.95,,Rice
+Tandoori King Prawn Masala,12.95,,Prawn
+King Prawn Biryani,12.95,,Rice
+Saag - King Prawn,12.95,,Prawn
+Dupiaza - King Prawn,12.95,,Prawn
+Pathia - King Prawn,12.95,,Prawn
+Bengal Fry Fish,12.95,,Fish
+King Prawn Balti,12.95,,Prawn
+Bengal Fish Karahi,12.95,,Fish
+Rogon - King Prawn,12.95,,Prawn
+Mushroom - King Prawn,12.95,,Prawn
+King Prawn Karahi,12.95,,Prawn
+Methi - King Prawn,12.95,,Prawn
+Kurma,12.95,,Special
+House Red wine 75cl,17.95,,Drinks
+House white wine 75cl,17.95,,Drinks

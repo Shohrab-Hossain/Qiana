@@ -1,0 +1,29 @@
+{
+	"intent": "Thanks",
+	
+	"texts": [
+        "OK thank you",
+        "OK thanks",
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "That is helpful",
+        "That was helpful"
+	],
+
+	"reply": {
+		"responses": [
+            "No problem.",
+            "Happy to help.",
+            "Any time.",
+            "My pleasure.",
+            "Glad to help."
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}

@@ -1,0 +1,35 @@
+{
+	"intent": "CustomerName",
+	
+	"texts": [
+        "My name is NAME",
+        "This is NAME",
+        "I am NAME",
+        "It is NAME",
+		"You can call me NAME",
+		"You may call me NAME",
+		"Call me NAME"
+	],
+
+	"reply": {
+		"responses": [
+            "<NAME>, nice to meet you.",
+			"<NAME>, pleased to meet you.",
+			"<NAME>, lovely to meet you.",
+			"Delighted to make your acquaintance.",
+			"Delighted to make your acquaintance, <NAME>.",
+			"It's a beautiful name. Nice to meet you, <NAME>.",
+			"It's a beautiful name. Pleased to meet you, <NAME>.",
+			"It's a beautiful name. Lovely to meet you, <NAME>.",
+			"I like your name. Nice to meet you, <NAME>.",
+			"I like your name. Pleased to meet you, <NAME>.",
+			"I like your name. Lovely to meet you, <NAME>."
+        ],
+
+		"extensions": [
+
+		]
+	},
+
+    "response_type" : "RuleBased"
+}
