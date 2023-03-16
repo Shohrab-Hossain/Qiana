@@ -47,7 +47,7 @@ Let's have a chat with [Qiana](https://qiana.shohrab.com)
 
 Processing textual data is the purpose of a chatbot system. However, the fundamental issue here is that the textual data is unstructured. The textual unstructured data must first be formatted before it can be processed to extract useful information. Natural language processing, which processes textual input and transforms it into a structured format, is used in this study to accomplish this objective. Following that, the machine learning unit can use this structured data to process them further. Intents will be categorized from the unstructured data by this machine learning unit, which was trained using processed text data.When the machine learning model has classified the intent, the response handling unit will generate a response.
 
-The [Natural Language Processing Unit](#1.1.-natural-language-processing-unit) , [Machine Learning Unit](#1.2.-Machine-Learning-Unit), and [Response Generation Unit](#1.3.-Response-Generation-Unit) are the three fundamental units of the chatbot system's architecture. The chatbot's architecture is depicted in the figure.
+The [Natural Language Processing Unit](#11-natural-language-processing-unit) , [Machine Learning Unit](#12-machine-learning-unit), and [Response Generation Unit](#13-response-generation-unit) are the three fundamental units of the chatbot system's architecture. The chatbot's architecture is depicted in the figure.
 
 
 <br><br>
